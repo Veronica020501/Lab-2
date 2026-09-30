@@ -33,6 +33,7 @@ nav{
     display: flex;
     flex-direction: column;
     background-color: beige;
+    flex-basis: 100%;
 }
 
 .card-grid{
